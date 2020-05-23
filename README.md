@@ -2,7 +2,7 @@
 
 ![](header.jpg)
 
-[Watch in Youtube](https://youtu.be/hdI2bqOjy3c)]
+[Watch in Youtube](https://youtu.be/hdI2bqOjy3c)
 
 <h2>What is Javascript?</h2>
 
